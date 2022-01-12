@@ -50,11 +50,3 @@ class Garage {
     }
 }
 
-
-let newGar = new Garage(1);
-newGar.add("Games");
-
-
-console.log(newGar);
-
-
